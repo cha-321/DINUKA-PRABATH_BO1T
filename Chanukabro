@@ -13,7 +13,7 @@ npm install
 nano ~/.bash_profile
 
 export SESSION_ID="PRABATH-MD~Q2kX1RrJ#C1GLrkaJ6-06NC_V9vpR1dHX61qHdjNnfgdYx2gdLYE"
-export GITHUB_AUTH_TOKEN="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"
+export GITHUB_AUTH_TOKEN="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"
 export GITHUB_USERNAME="cha-321"
 export BOT_NUMBER="94705601615"
 
